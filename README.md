@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhnitesh21
+- 👋 Hi, I’m @offensive-nitesh
 - 👀 I’m interested in Web penetration testing 
 - 🌱 I’m currently learning web application exploitation
 .
